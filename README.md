@@ -1,4 +1,4 @@
-# Cryptocurrency Data Fetching Assignment
+# Cryptocurrency Data Fetching
 
 This project fetches and analyzes live cryptocurrency data using Python and Google Sheets.
 
